@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 <p align="center">
-  <img src="https://github.com/glenda1015/glenda1015/blob/main/Intro_GIF.gif" alt="Hi, I'm Glenda Garcia">
+  <img src="https://github.com/glenda1015/glenda1015/blob/main/GIF.gif" alt="Hi, I'm Glenda Garcia">
 </p>
 
 ---
